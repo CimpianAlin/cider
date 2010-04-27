@@ -1,0 +1,14 @@
+Libraries needed for Jena:
+- icu4j
+- iri
+- jena
+- junit
+- log4j
+- slf4j-api
+- slf4j-log4j
+- stax-api
+- xercesImpl
+
+
+Libraries needed for serlex:
+- jcifs

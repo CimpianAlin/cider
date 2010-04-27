@@ -1,0 +1,5 @@
+"Content Integration Framework: Document Extraction and Retrieval"
+ A document parser framework that stores parsed entities into jena RDF vocabularies
+ and provides knowledge-base enhanced semantic ananlysis of content.
+
+ 
