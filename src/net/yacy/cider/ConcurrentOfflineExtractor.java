@@ -29,13 +29,11 @@ import com.hp.hpl.jena.rdf.model.Model;
 
 public class ConcurrentOfflineExtractor implements ConcurrentExtractor {
 
-    @Override
     public URI submit(DataSource source) {
         // TODO Auto-generated method stub
         return null;
     }
 
-    @Override
     public Model take() {
         // TODO Auto-generated method stub
         return null;

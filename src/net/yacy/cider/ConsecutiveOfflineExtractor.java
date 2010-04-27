@@ -36,7 +36,6 @@ public class ConsecutiveOfflineExtractor implements ConsecutiveExtractor {
     
     private static final Logger log = Logger.getLogger(FileUtils.class.getName());
     
-    @Override
     public Model process(DataSource source) {
      
         try {

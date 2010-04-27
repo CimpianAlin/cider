@@ -86,7 +86,6 @@ public class pdfIdiom extends AbstractIdiom implements Idiom {
         return SUPPORTED_EXTENSIONS;
     }
 
-    @Override
     public Set<String> usedVocabularies() {
         return USED_VOCABULARIES;
     }

@@ -43,18 +43,14 @@ public abstract class AbstractIdiom implements Idiom {
         this.parserName = parserName;
     }
     
-    @Override
     public abstract Set<MimeType> supportedMimeTypes();
     
-    @Override
     public abstract Set<Extension> supportedExtensions();
 
-    @Override
     public String getName() {
         return this.parserName;
     }
 
-    @Override
     public abstract Model parse(DataSource source) throws ParserException;
 
     /**
